@@ -8,13 +8,13 @@ Victor Udoewa has written up a guide to [Workshop Facilitation Best Practices] (
 
 ## Definitions
 
-* Workshop * - a meeting during which attendees participate in discussions and activities around a particular subject or topic, and through which attendees work towards a particular goal, outcome, artefact, or product
+### Workshop ### - a meeting during which attendees participate in discussions and activities around a particular subject or topic, and through which attendees work towards a particular goal, outcome, artefact, or product
 
-* Facilitator * - a content-neutral person who leads, coordinates, guides, or enables a group of people to have a discussion, bring about an outcome, or navigate a process. The facilitator is a helper who supports the group to do their best thinking and practice as they pursue their objectives. The facilitator often uses a range of fair, open, unobtrusive, indirect, and inclusive processes to bring about synergy, inclusive solutions, and sustainable agreements.
+### Facilitator ### - a content-neutral person who leads, coordinates, guides, or enables a group of people to have a discussion, bring about an outcome, or navigate a process. The facilitator is a helper who supports the group to do their best thinking and practice as they pursue their objectives. The facilitator often uses a range of fair, open, unobtrusive, indirect, and inclusive processes to bring about synergy, inclusive solutions, and sustainable agreements.
 
 ## Workshops Ground Rules
 
-// Workshops are facilitated multi-participant experiences that (a) allow a group to collaborate to create something or achieve an outcome, (b) make a group decision when there may be divergent individual opinions, or (c) both. 
+Workshops are facilitated multi-participant experiences that (a) allow a group to collaborate to create something or achieve an outcome, (b) make a group decision when there may be divergent individual opinions, or (c) both. 
 
   ``` markdown
   ### Project name
