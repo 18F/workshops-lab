@@ -4,19 +4,17 @@ Welcome to the 18F Workshops Lab repo — we’re glad you’re here! The goal o
 
 ## Workshop Facilitation Best Practices
 
-Victor Udoewa has written up a guide to [Workshop Facilitation Best Practices] (https://docs.google.com/a/gsa.gov/document/d/170Ewyl-m2Y8Uk7A9SAekR5clnHNZK3JHK1f9u4KHXNE/edit?usp=sharing) for people looking to improve their workshop facilitation skills. You can read more here:
-
-https://docs.google.com/a/gsa.gov/document/d/170Ewyl-m2Y8Uk7A9SAekR5clnHNZK3JHK1f9u4KHXNE/edit?usp=sharing
+Victor Udoewa has written up a guide to [Workshop Facilitation Best Practices] (https://docs.google.com/a/gsa.gov/document/d/170Ewyl-m2Y8Uk7A9SAekR5clnHNZK3JHK1f9u4KHXNE/edit?usp=sharing) for people looking to improve their workshop facilitation skills. 
 
 ## Definitions
 
-*Workshop* - a meeting during which attendees participate in discussions and activities around a particular subject or topic, and through which attendees work towards a particular goal, outcome, artefact, or product
+* Workshop * - a meeting during which attendees participate in discussions and activities around a particular subject or topic, and through which attendees work towards a particular goal, outcome, artefact, or product
 
-*Facilitator* - a content-neutral person who leads, coordinates, guides, or enables a group of people to have a discussion, bring about an outcome, or navigate a process. The facilitator is a helper who supports the group to do their best thinking and practice as they pursue their objectives. The facilitator often uses a range of fair, open, unobtrusive, indirect, and inclusive processes to bring about synergy, inclusive solutions, and sustainable agreements.
+* Facilitator * - a content-neutral person who leads, coordinates, guides, or enables a group of people to have a discussion, bring about an outcome, or navigate a process. The facilitator is a helper who supports the group to do their best thinking and practice as they pursue their objectives. The facilitator often uses a range of fair, open, unobtrusive, indirect, and inclusive processes to bring about synergy, inclusive solutions, and sustainable agreements.
 
-## Meeting Facilitation
+## Workshops Ground Rules
 
-1. [Create a new issue](https://github.com/18F/writing-lab/issues/new) for each help request you’d like to submit. Your new issue will automatically be populated with the following template:
+// Workshops are facilitated multi-participant experiences that (a) allow a group to collaborate to create something or achieve an outcome, (b) make a group decision when there may be divergent individual opinions, or (c) both. 
 
   ``` markdown
   ### Project name
@@ -53,7 +51,9 @@ https://docs.google.com/a/gsa.gov/document/d/170Ewyl-m2Y8Uk7A9SAekR5clnHNZK3JHK1
   ### Description
   Summarize the piece you’re working on and the goals of the piece.
   ```
-If you're looking for more information on Meeting Facilitation and Leadership, you can read the [IRL Notes from Alex Bisker and Will Slack](https://pages.18f.gov/content-guide/) or access the [18F Workshop Materials on Google Drive](https://drive.google.com/drive/folders/0B5GqxshfZoAVMnlUR2prZHg2d2s?usp=sharing)
+  
+  
+If you're looking for more information on Meeting Facilitation and Leadership, you can read the [IRL Notes from Alex Bisker and Will Slack](https://docs.google.com/a/gsa.gov/document/d/1ZnGbHasZwCGOxB5ULRo0KTeBrY6oiXOvubSZ6VTvLl0/edit?usp=sharing) or access the [18F Workshop Materials on Google Drive](https://drive.google.com/drive/folders/0B5GqxshfZoAVMnlUR2prZHg2d2s?usp=sharing)
 
 ## Questions or concerns?
 
