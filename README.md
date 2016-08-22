@@ -71,8 +71,8 @@ Workshops are facilitated multi-participant experiences that (a) allow a group t
     * Force field analysis
     * Criteria matrix
     * Ranking or voting with dots
-  Original List from [University of Virginia resources on Process Simplification](http://www.virginia.edu/processsimplification/resources/Facilitator.pdf)
   ```
+  Original List from [University of Virginia resources on Process Simplification](http://www.virginia.edu/processsimplification/resources/Facilitator.pdf)
   
 If you're looking for more information on Meeting Facilitation and Leadership, you can read the [IRL Notes from Alex Bisker and Will Slack](https://docs.google.com/a/gsa.gov/document/d/1ZnGbHasZwCGOxB5ULRo0KTeBrY6oiXOvubSZ6VTvLl0/edit?usp=sharing) or access the [18F Workshop Materials on Google Drive](https://drive.google.com/drive/folders/0B5GqxshfZoAVMnlUR2prZHg2d2s?usp=sharing)
 
